@@ -48,7 +48,7 @@ def main(board):
                 win = True
                 break
         if counter == 9:
-            print ("Ничья!")
+            print ("ничья")
             break
     draw_board(board)
 
